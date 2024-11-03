@@ -33,7 +33,7 @@ For Software:
 [https://benjiphilip.github.io/UselessUnitConvertor/]
 
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](https://github.com/BenjiPhilip/UselessUnitConvertor/blob/main/image.png?raw=true)
 *This shows the conversion of hours into that of what is equivalent in Netflix episodes. There is a constant for an average netflix episode duration which is then divided with the value of hours to provide our output. The value obtained is also linked to the fun comments added to the output which changes with respect to values.*
 
